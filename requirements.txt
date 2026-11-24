@@ -1,0 +1,7 @@
+crewai
+langchain==0.3.27
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+python-dotenv

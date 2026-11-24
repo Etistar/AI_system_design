@@ -1,0 +1,95 @@
+# Health reference notes for the Group 1 research assistant
+
+These notes are a course knowledge base for health enquiries. They are short original summaries written for COMP 248. They follow themes published for the public by MedlinePlus (U.S. National Library of Medicine) and by World Health Organization fact sheets. They are not a medical device, not a diagnosis, and not a treatment plan. A research analyst should send the reader to a licensed clinician for personal medical decisions.
+
+## Cold and influenza
+
+The common cold and influenza are both respiratory infections, but they are not the same illness. A cold usually starts slowly. Typical features are a runny or blocked nose, sneezing, a sore throat, and a mild cough. Fever is uncommon in adults with a cold, and people can often continue light daily activity.
+
+Influenza tends to start more suddenly. Fever, chills, muscle aches, headache, deep tiredness, and a dry cough are common. Some people also have a sore throat or a runny nose. Most people recover in about one to two weeks. People who are older, pregnant, very young, or living with heart disease, lung disease, or a weakened immune system can become much more ill.
+
+Care at home for either illness is rest, fluids, and attention to breathing. Antibiotics do not treat a cold or influenza, because those illnesses are viral. A clinician may consider an antiviral medicine for influenza when a person is at high risk and is seen early. The knowledge base does not give doses.
+
+Seek urgent care if breathing is difficult, the lips look blue, chest pain appears, a person is confused, or a baby feeds poorly or is unusually sleepy. Those features are not a routine cold.
+
+## Fever and when to seek care
+
+Fever is a rise in body temperature. It is a sign, not a disease. Mild fever with a clear source, such as a cold, can often be watched at home if the person drinks fluids and stays comfortable. A research summary should not tell a specific person which medicine to take.
+
+Contact a clinician promptly when a baby younger than three months has a fever, when fever lasts more than about three days, when fever is paired with a stiff neck, a rash that does not fade, severe headache, repeated vomiting, confusion, or trouble breathing. Seek emergency care for seizure, inability to wake, or blue skin.
+
+Dehydration matters during fever. Warning features include a dry mouth, very little urine, no tears in a child, and dizziness on standing. The analyst should describe these as reasons to get in-person care, not as a home diagnosis.
+
+## Chest pain, stroke, and other emergencies
+
+Some symptoms should not wait for a research summary. Sudden chest pressure, pain spreading to the arm, neck, or jaw, shortness of breath, cold sweat, nausea, or a feeling of doom can be a heart attack. The person needs emergency services, not a chatbot.
+
+A stroke is suggested by sudden face drooping, arm weakness, or trouble speaking. Time matters. The person should be taken to emergency care immediately. Sudden trouble seeing, a sudden severe headache, or sudden loss of balance can also be stroke symptoms.
+
+Severe allergic reaction can include swelling of the lips or tongue, wheeze, widespread hives, and collapse. This is an emergency. Heavy bleeding that does not stop, a person who has taken an overdose, and a person who says they intend to harm themselves also need emergency or crisis services now.
+
+The assistant must not invent a cause for these symptoms. Its job is to stop the research flow and point to emergency care.
+
+## Blood pressure
+
+Blood pressure is the force of blood against artery walls. It is written as two numbers. The higher number is the pressure while the heart squeezes. The lower number is the pressure while the heart rests. A single reading can be high because of pain, caffeine, or a rushed measurement. A clinician looks at repeated readings.
+
+High blood pressure often has no symptoms. Over years it raises the chance of heart attack, stroke, heart failure, and kidney disease. Lifestyle steps that clinicians commonly discuss include not using tobacco, limiting alcohol, choosing food with less sodium, keeping a healthy weight, being physically active, and sleeping enough. Medicine is sometimes added. This knowledge base does not name a target number as a personal goal and does not recommend a drug.
+
+Very high blood pressure with chest pain, shortness of breath, weakness, trouble speaking, or vision change needs urgent care. A normal-feeling person should not wait for symptoms before having blood pressure checked. Many pharmacies and clinics can measure it.
+
+## Diabetes basics
+
+Diabetes is a condition in which blood glucose stays higher than it should. Glucose is a sugar the body uses for energy. Insulin is the hormone that helps glucose move into cells. In type 1 diabetes the body makes very little insulin. In type 2 diabetes the body does not use insulin well, and insulin production can also fall over time. Gestational diabetes appears in pregnancy.
+
+Common features of high glucose include thirst, passing urine often, tiredness, blurred vision, and slow healing. Some people have no early symptoms. Very high glucose can cause nausea, abdominal pain, deep breathing, or confusion, and that needs urgent care.
+
+Day-to-day care, when a clinician has already made the diagnosis, often includes food choices, activity, glucose checks, and sometimes medicine. Feet, eyes, kidneys, and blood pressure need regular follow-up because high glucose damages small vessels. This assistant can explain those themes. It cannot diagnose diabetes from a chat message and it cannot set a dose.
+
+Low glucose in a person who uses glucose-lowering medicine can cause sweating, shakiness, hunger, and confusion. That person needs their own care plan. If they cannot swallow or are unconscious, this is an emergency.
+
+## Vaccination
+
+Vaccines train the immune system to recognize a germ. They reduce the chance of getting a disease and of becoming severely ill. Routine childhood schedules and adult boosters differ by country. The analyst should point readers to the local public-health schedule rather than invent dates.
+
+Influenza vaccine is offered each year because flu viruses change. COVID-19 vaccines have also been updated as variants changed. Other vaccines often discussed for adults include tetanus boosters and, for some ages or conditions, vaccines against pneumococcal disease and shingles. Pregnancy and a weakened immune system change which vaccines are advised. A clinician or public-health clinic makes that decision.
+
+After a vaccine, a sore arm or a short fever can happen. A severe allergic reaction is rare and is an emergency. The knowledge base does not claim that vaccines cause the diseases they prevent.
+
+## Medication safety
+
+A medicine can help and can also harm if it is the wrong drug, the wrong amount, or mixed with another product. The analyst should tell readers to use the label, the pharmacist, and the prescriber. The assistant must not calculate a dose.
+
+General safety points are: keep an up-to-date list of medicines, including vitamins and herbal products; do not share prescription medicine; do not use another person's antibiotics; check the name so that look-alike packages are not mixed up; ask before combining pain medicine with alcohol; and store medicine away from children.
+
+Antibiotics treat some bacterial infections. They do not treat colds, influenza, or most sore throats. Leftover antibiotics should not be saved for a later illness. Expired or unwanted medicine should be returned to a pharmacy take-back service when one exists, not flushed unless the label says to do so.
+
+If a person may have taken too much of a medicine, contact poison control or emergency services. Do not wait for a research summary, and do not suggest home remedies for an overdose.
+
+## Mental health help
+
+Feeling sad, worried, or exhausted can be part of ordinary life. It becomes a health concern when it lasts, when it blocks work or relationships, or when the person cannot stay safe. Depression can include low mood, loss of interest, sleep change, appetite change, and hopelessness. Anxiety can include constant worry, a racing heart, and avoidance.
+
+The assistant can describe these patterns and the kinds of help that exist: a family clinician, counselling, community programs, and crisis lines. It must not label the user with a diagnosis.
+
+If a person says they want to die, have a plan to harm themselves, or are in immediate danger, the research task stops. The response is to contact local emergency services or a crisis line now, and to stay with a trusted person if that is possible. The assistant does not keep that conversation inside a literature summary.
+
+## Hand hygiene and infection control
+
+Cleaning hands removes germs picked up from people and surfaces. Soap and water are preferred when hands are visibly dirty, after using the toilet, and before preparing food. Scrubbing for about 20 seconds, including thumbs and fingertips, then drying the hands, is the usual public-health instruction. An alcohol-based rub is useful when soap and water are not available and hands are not visibly dirty.
+
+Stay home from work or school when a person has a fever or a new cough, if that is practical. Cover coughs with a tissue or an elbow. Do not share cups or lip products during a respiratory illness. These steps lower spread. They do not replace vaccination or medical care.
+
+A cut that becomes hot, swollen, and more painful, or that leaks pus, should be seen by a clinician. That can be a skin infection. The assistant should not recommend a particular antibiotic.
+
+## Food, activity, and sleep
+
+Regular movement, food that includes vegetables, fruit, legumes, and whole grains, and enough sleep support heart health, mood, and glucose control. A useful public message is to build habits a person can keep, not a short extreme diet. Tobacco avoidance is one of the strongest steps for lung and heart health.
+
+Adults are often advised to work toward about 150 minutes a week of moderate activity, such as brisk walking, plus muscle-strengthening activity on two days, unless a clinician has set a different plan. People with chest pain during activity should stop and get care rather than push through it.
+
+Sleep that is short for a long time is linked with higher blood pressure and worse mood. A dark, quiet room and a stable schedule help many people. Loud snoring with daytime sleepiness can be a reason to ask a clinician about sleep apnea. The assistant reports that association. It does not diagnose it.
+
+## Limits of this knowledge base
+
+This corpus answers general health enquiries for a research analyst. It does not contain local clinic addresses, personal records, drug doses, or images. If a question is outside these notes, the assistant should say that the knowledge base does not contain the answer and should point to MedlinePlus, the World Health Organization, or a licensed clinician. It should not fill the gap with guesses.

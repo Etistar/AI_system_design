@@ -1,0 +1,22 @@
+Projet d'équipe — groupe 1 — questions de santé
+Membres : Shataer Abulizi, Mohammad Alkhalifa, Morel Eware Tatchim, Joseph Ghobrial, Etienne Zonon.
+
+Lancer l'interface
+1. Copie .env.example vers .env
+2. Mets GROQ_API_KEY (la clé de tes labs) ou MISTRAL_API_KEY si tu changes LLM_MODEL.
+3. streamlit run app.py
+
+Sans clé, la page montre quand même les passages retrouvés.
+Avec une clé, CrewAI lance l'agent de recherche (outil RAG) puis l'agent de réflexion.
+
+Fichiers à remettre
+- COMP248_project_health_team1_report.docx (le devoir demande un PDF : exporte-le depuis Word)
+- COMP248_project_health_team1_slides.pptx (8 diapositives)
+- app.py, rag_store.py, crew_prototype.py, router.py, memory_store.py, data/health_reference.txt
+- EtienneZonon_peer_evaluation_DRAFT.docx est un brouillon personnel. Complète les pourcentages toi-même, selon le vrai travail de chacun, et dépose-le dans la boîte Peer evaluation. Ne le mets pas dans le zip de l'équipe.
+
+Le registre des réunions dans le rapport est vide. Remplis-le avec les vraies rencontres avant de déposer.
+Le code de section utilisé est celui visible sur la page du groupe (25F / ESC 402). Vérifie le numéro demandé par la boîte de dépôt.
+
+Nom suggéré du zip : COMP248_project_health_team1.zip
+Ajoute le numéro de section s'il est exigé.
